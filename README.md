@@ -94,7 +94,8 @@ portfolio-website/
 ## ⚙️ Run Locally
 
 ```bash
-git clone https://github.com/Ezhil-17/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Ezhil-17/Portfolio.git
+cd Portfolio
 open index.html
+
 
