@@ -41,7 +41,7 @@ I love creating responsive, accessible, and visually appealing web applications 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ezhilarasi-a-909047250
 - 📧 Email: ezhilarasia96@gmail.com
-- 🌐 Portfolio: *(Add live link)*
+- 🌐 Portfolio: https://github.com/Ezhil-17/Portfolio
 
 ✨ *Always learning. Always building.*
 
@@ -50,7 +50,7 @@ I love creating responsive, accessible, and visually appealing web applications 
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** *(Add GitHub Pages / Netlify link)*  
+🔗 **Live Website:** https://github.com/Ezhil-17/Portfolio  
 🔗 **GitHub:** https://github.com/Ezhil-17
 
 ---
@@ -80,13 +80,13 @@ I love creating responsive, accessible, and visually appealing web applications 
 ## 📂 Folder Structure
 
 portfolio-website/
-│
-├── index.html
-├── style.css
-├── script.js
-├── resume.pdf
-├── profile.jpg
-└── README.md
+- │
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- ├── resume.pdf
+- ├── profile.jpg
+- └── README.md
 
 
 ---
@@ -97,3 +97,4 @@ portfolio-website/
 git clone https://github.com/Ezhil-17/your-repo-name.git
 cd your-repo-name
 open index.html
+
