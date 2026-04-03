@@ -20,20 +20,26 @@ I love creating responsive, accessible, and visually appealing web applications 
 ## 🛠️ Skills
 
 **Frontend:** HTML5, CSS3, JavaScript, React  
-**Backend (Learning):** Node.js, Express  
+**Backend (Learning):** Java, Python  
 **Database:** SQL  
 **Tools:** Git, GitHub, VS Code, Chrome DevTools  
 
 ---
 
-
 ## 📌 Projects
 
-- 🌐 Personal Portfolio Website  
-- 🔐 Login & Signup UI  
-- ✅ React Todo App  
+🚀 Highlighted Projects:
 
-➡️ Check my repositories for more!
+🌐 **Personal Portfolio Website**  
+Designed and developed a responsive portfolio to showcase projects and technical skills.
+
+🔐 **Login & Signup UI**  
+Implemented a clean and secure authentication interface with modern UI design.
+
+🛒 **E-commerce Website**  
+Developed a dynamic e-commerce platform featuring product browsing, cart management, and user-friendly navigation.
+
+👉 Check out my repositories for more projects and continuous updates!
 
 ---
 
